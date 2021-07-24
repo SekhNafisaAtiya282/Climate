@@ -14,3 +14,8 @@
   <li>Open Weather API</li>
  <li>Unsplash API</li>
 </ul>
+
+<h3> ScreenShots </h3>  
+<img src = "Weather-App.jpg" alt="Sample Image">
+<br>
+
