@@ -51,5 +51,5 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Bengal");
+  weather.fetchWeather("Kolkata");
   
